@@ -997,7 +997,7 @@ input:not([type=submit]):not([type=file]):focus, select:focus, textarea:focus {
 	border-bottom: 2px dashed #232323;
 	position: relative;
 	margin: 0 18px;
-	padding-bottom: 12px;
+	padding-bottom: 170px;
 	margin-bottom: 24px;
 }
 .signature:before {
